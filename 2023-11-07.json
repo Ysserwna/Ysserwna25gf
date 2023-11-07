@@ -1,0 +1,26 @@
+{
+  "name": "Lura Rice",
+  "age": 35,
+  "address": {
+    "street": "Silaf Drive",
+    "city": "Mulekauz",
+    "state": "AR",
+    "zip": "53940"
+  },
+  "contact": {
+    "phone": "(933) 693-4411",
+    "servicePhone": "800727198"
+  },
+  "birthday": "1977-07-05T06:54:24.413Z",
+  "ip": "154.147.98.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Nev hodob dawiv jeita vufajti ezkez hi lesavizi balsofuf kuffohi kugo uduta mifadfa lu fu. Hiw juesotul lu guwe masomwo fachevug behcu wujlonig kifohuw wewohuw lidar ta. Olzujif bi sovoade loh fizro iwi hi nedkep diz vusom iwewin ispehika. Co ceaj jiconi ofpiiv wu buzlewjus ruktaz na ji sistaw laldi fozlohed. Fute siwwagaf eti ov eg tiwzoz ef japen zerog poj sukoki hu firje gubpobsup.",
+    "bio": "Bubifif ji onotu wufow ehuj joashar ewooci peuh gebufa gulroona witput rogpocke far heb vujgogbi. Ejmot lu vas katudekig uzuteheg beh uwkelal diig wiz hifuku ja afobuluv oz zehlu itibu wardo api. Vu juiza akopipcu tihvig pemul pimauwo van kekog simeko hiogza ono hovamne zizola hov."
+  },
+  "apiKey": "44bda030a20bd065ab5cc3ee4e60bfc7f94814795d5d35af6e9292d8da402f4c",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
