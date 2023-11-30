@@ -1,0 +1,26 @@
+{
+  "name": "Fannie Hamilton",
+  "age": 32,
+  "address": {
+    "street": "Aguisa Pike",
+    "city": "Vivheveno",
+    "state": "MI",
+    "zip": "83076"
+  },
+  "contact": {
+    "phone": "(359) 758-2103",
+    "servicePhone": "800999655"
+  },
+  "birthday": "1986-01-28T14:26:29.442Z",
+  "ip": "32.245.31.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Biju dakjete efugi bef ejaipeva abi zewbuuwe fubfiwduv afukac jih saemom isupuj el ohdeizi. Pamke urho kerumbe gamuzi baguhi ta biunigar gufa ucginci lidohuz unjopnu nulku nanic tufinaer engiip cunsiiw moka. Codfulru ter fiuvitiw vutnamne ehiviw mozoco otpodneb tokze jifofu ji dol kiet.",
+    "bio": "Neb mudbatjit vir ru letbewej zosposan ahuzosi kumiom raip fuhnopil pusne ri. Kilbuphu gar sumov zi roh urger leg ta duddif bumme vi utu uf. Guzipihe ul mizko kacomoc dar gujuwi hu roldabpi ije bapho lonbicni vozjuid. Sioninah mejif hanow zokwotac ramcuni ler modbic dowma fa tu ja roghilocu ralca tanifi voew."
+  },
+  "apiKey": "e4f20eaf3467ef456f48dcb51a3f6f02d622266755d9e0ea337e70227ebb59fe",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
