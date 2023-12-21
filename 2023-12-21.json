@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Cole",
+  "age": 42,
+  "address": {
+    "street": "Cofir Square",
+    "city": "Beudogig",
+    "state": "CA",
+    "zip": "80893"
+  },
+  "contact": {
+    "phone": "(961) 812-9443",
+    "servicePhone": "800452456"
+  },
+  "birthday": "1967-08-18T23:32:39.685Z",
+  "ip": "191.75.193.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Utema da iwgudeb gevfegtug rezi ebedu ala cebfafar ditvik aruge har bat zepe umdac asu fetzerode oripup kide. Ivozusci lifaso roma ra hu orgoha jekvesepa had dezcub no dukpo luzparfem cugcup. Dug mo zes kovij al ippucum ahce votliw pap uguna ulauzu ves jihjarjos pim delzil mapijaimu bik. Ivujiud ohzezbi ni os sibir anias riafuku dupashur vukez huz ewatiewo douge hijoforo utoze nuije kojabewa nihan. Sel vawu lag da guj gigodo ehe dubjifoc mavof radut reoksup kuwmod ti vobwa eveliw cida.",
+    "bio": "Jolafmu vam ra hi ho ca da zueju viosu kuw wiehzu foulpip cojip. Ecoko emewubfi oczisen me natanolo horu ked etlaner verokzal liima ric haped puzo urusben gojtal. Hip faukaej mec di jimolif iha dorpeal zimes cavu dihhuh ivwuf tur zovuzte."
+  },
+  "apiKey": "be74beb1353eb29649795cc12e917c1d88aca0dd10502cbd1858e61ae8e204c8",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
