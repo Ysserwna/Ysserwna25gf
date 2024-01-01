@@ -1,0 +1,26 @@
+{
+  "name": "Amy Carson",
+  "age": 32,
+  "address": {
+    "street": "Mehmar Pass",
+    "city": "Sewallu",
+    "state": "MI",
+    "zip": "68909"
+  },
+  "contact": {
+    "phone": "(539) 862-5720",
+    "servicePhone": "800656558"
+  },
+  "birthday": "1977-04-19T02:48:40.049Z",
+  "ip": "83.22.102.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Wet regpuk wesifus akmu jade zuzo lih se ale juflehe fizgin wi keku nuwedrok kac nojli. Goridmar zeelgip vevbifodo onaafi kudsep medwimut kum uni win cafonzir piidhis egjes jamusrir ofmug cunme welerere. Zuvneljev lo nadjuc nosolhep ce lotjan filvuzir bizir meviv iw jabnehos winruhil ac coz se upuhnas.",
+    "bio": "Pihogra dop juheker oba duh cudihlo kaffo ze du ebi mu teda geuhpu mawevuz zoz hunteci bigki al. Gukiloma rogirer nedi miimko ehomeej vufrav ka eworem jala merwiaze nidjud rudabbu vivep. Ebo doj jof gaowapov woubuvu upi gifwi am ilvi ku wivajbo jiew wovrezper fihi wiit hu."
+  },
+  "apiKey": "c1548a81a9096b2158581e12bf666ecba1267542169071c83720cab76d4f71cf",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
