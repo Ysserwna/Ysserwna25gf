@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Wilson",
+  "age": 60,
+  "address": {
+    "street": "Oheron Turnpike",
+    "city": "Belugado",
+    "state": "OK",
+    "zip": "98538"
+  },
+  "contact": {
+    "phone": "(512) 334-4586",
+    "servicePhone": "800723839"
+  },
+  "birthday": "1992-01-03T15:51:51.536Z",
+  "ip": "3.65.148.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Bar bogzeg tu roh um nefuhu pahi ubokud efigauza gug dig ful panfacup biruzogu uprepij relaw. Iguwi femsabnu vocazlet wi uve fodciroj giibdir budil iwhu monnow na ipude. Le vufposku ihavoz kindat noel muroka zihhulov eza curru mafusbut fot senew hu fuhet oto. Ta wabim limo hofte ji kapo jepuje ni po fu hug lecadcof wab nor nubemi tefo gelfub vutrimi.",
+    "bio": "Ruhoz ut metor dok okadila gajuz oljonfa kus iwawo wakovieb vosjacwu ruscoh. Halcoeb sajuve epwabboh isjud fo lowgoplab evurocmog gumke ukewavpur il zo rumihid etelad vu ko sanafzab. Miaka gu woduwe zol mabikpot esuhipe gudocga opsab acewadic coswigu gijve hu. Juttu seg udwiw nabfek uste zavkulur vofueke ne va zu tad du."
+  },
+  "apiKey": "6e321c3c60a5e432a8257b5d7e8992d1d9024b848525fb96b51f155708347c5b",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
