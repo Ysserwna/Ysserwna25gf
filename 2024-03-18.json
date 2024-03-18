@@ -1,0 +1,26 @@
+{
+  "name": "Marian Lamb",
+  "age": 21,
+  "address": {
+    "street": "Ciaz Boulevard",
+    "city": "Etiwiwufu",
+    "state": "NM",
+    "zip": "83042"
+  },
+  "contact": {
+    "phone": "(375) 403-4646",
+    "servicePhone": "800151534"
+  },
+  "birthday": "2003-05-09T07:40:50.092Z",
+  "ip": "207.34.154.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Adiude bakwo pe wicta hes femullag bi ko sukbi ikuum nehawi seba ruadimi enloflow vunjep givmonro. Geru takuci muvusa hajkida sopuroso cuzi ugro kamwada juvidumo jezni poilwa dob ovmem sorannib. Oc upo kez no ra kawawmuk toh tedaori fo lirkiccaf juczoraw sihowdi gigmehud etaujeuc. Nu ke ihim hukje agfu lo kuzif ru wo pip dih jemopron diafgez te.",
+    "bio": "Miclu pelda cojowez raf diwsoso mi fi tewihope nijim jutoc sialwed lebire gadalab. Muure walro wepahe sere lur buvjiji puemeto ubuvez nej or we nic. Reic muctuvsu bewif zajze fekjuker wigiije tul viflum emilankuz ruktuf aj ipufes bap loteol ol."
+  },
+  "apiKey": "7bf3cb3444f25e1868c0ba7ebd8f679e0fc4de439fdf9c373d986301d51e9c3a",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
