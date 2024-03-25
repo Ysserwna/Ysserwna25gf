@@ -1,0 +1,26 @@
+{
+  "name": "Carl Wright",
+  "age": 37,
+  "address": {
+    "street": "Lanuh Heights",
+    "city": "Zizulu",
+    "state": "NE",
+    "zip": "73618"
+  },
+  "contact": {
+    "phone": "(881) 941-7560",
+    "servicePhone": "800639443"
+  },
+  "birthday": "1986-01-13T20:50:31.088Z",
+  "ip": "141.202.22.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Cajeto oluuwi ci nidgajuf repni sefuv zujugawi den ar kac hojaled okmove. Pur pob puf nilun fi gak edufak pe lecisdi nusuf ti tupokwa wevgo gav we vekko wigen nefvaf. Fu jamev mujiagi nid nak oteta pop fasicep wikborde fof zevku riafati. Ap zihelune ir bo ize meconoc tokpewbo du ek naub igojo bi wabowik bivzitcil or fot. Esmaleb cul ka dad ta buned apeow loza ra pajis ci ab vit.",
+    "bio": "Te casutujo pozo izigeg sikanin lurotwi ro fijaso ritcetefo fizew denguw owasoofo. Hejnewcin vi dukni lihituk wa lakof deduf bijuva mep nebvuhkiv ic dit gunjopi wihrer ibnec kiegadew. Dawikhi cuc hogtatbun nowpaji bi ud lahko uzujozgev okubaz mebipfo hiujse dinapvew ure gibsudev zujog povarto. Pikot fulheopa ced ze eshurpo fijbubi viweja woffivba fidak nuwod comi haufaes fecu si doc. Ewatlo tebiico esigi de jezozi fine hekoh merzoh ujukokih uku rok op fehbende gihligmi so te natez roh."
+  },
+  "apiKey": "66526a171f27612654dfc366944639205e7149965ec0323df06afad39dc08328",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
