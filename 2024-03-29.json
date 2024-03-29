@@ -1,0 +1,26 @@
+{
+  "name": "Genevieve Moss",
+  "age": 26,
+  "address": {
+    "street": "Dipfed Place",
+    "city": "Izseme",
+    "state": "MI",
+    "zip": "46217"
+  },
+  "contact": {
+    "phone": "(434) 513-7135",
+    "servicePhone": "800268943"
+  },
+  "birthday": "1995-05-22T23:24:30.406Z",
+  "ip": "247.104.204.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Faf bi kalicvaj zivo kazgo al apdeldop hol ezaji haasta tihsiw hu pu vucmaf fosele jeraf piw. Koli renazo de hep ikkeje ko opzir cevhamitu wuujges he bapmicez laabu zin dole zogcu jenagahi. Mef culaj rije sop fostagdu ruicu sopsan toupsu vobsowcut kus comaw im bereasa iteneb hibaga ni. Cupop mic ge ti ejaocfer pahecod ec go eti cogruab barga camuvi lit iniuzej sew.",
+    "bio": "Te tovdofo jazdubo anuzu ga fiw so de cago etasozo kadehmu tifsi vo cepfujon resficodu re. La bil wuar japivohit fis obnuna bikigtoz tu ke ru jusmopi ugrawa. Buguw wiwhipu ikacepnah tehnu uzu tihi udilodam keg foko pac bezerrow jivrakca."
+  },
+  "apiKey": "0b5e11386768cc1eef75b7a5ec1614b1c6d4565d4306e54f41a6b1c707a9213b",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
